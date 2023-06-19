@@ -1,7 +1,7 @@
 Deno enabled fork of 
-- 
-- 
-- TrastPiler: https://github.com/AgronKabashi/trastpiler
+- is-mergeable-object: https://github.com/TehShrike/is-mergeable-object
+- deepmerge: https://github.com/TehShrike/deepmerge
+- trastpiler: https://github.com/AgronKabashi/trastpiler
 
 Original Traspiler Readme below
 ----
