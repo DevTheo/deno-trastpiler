@@ -1,4 +1,5 @@
-import * as defaultIsMergeableObject from '../is-mergeable-object/mod.ts';
+import {isMergeableObject} from '../is-mergeable-object/mod.ts';
+const defaultIsMergeableObject = isMergeableObject;
 
 function emptyTarget(val: any) {
 	return Array.isArray(val) ? [] : {}
